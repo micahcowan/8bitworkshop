@@ -39,7 +39,7 @@
     "command-exists": "^1.2.9",
     "cors": "^2.8.5",
     "esbuild": "^0.25.11",
-    "express": "^4.18.2",
+    "express": "^4.22.1",
     "fast-png": "^5.0.4",
     "jsdom": "^25.0.1",
     "lzg": "^1.0.x",
